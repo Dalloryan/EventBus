@@ -8,10 +8,10 @@ EventBus
 
 EventBus...
 
- * simplifies the communication between components
+ * simplifies the communication between components.
     * decouples event senders and receivers
     * performs well with Activities, Fragments, and background threads
-    * avoids complex and error-prone dependencies and life cycle issues
+    * avoids complex and error-prone dependencies and life cycle issues.
  * makes your code simpler
  * is fast
  * is tiny (~60k jar)
