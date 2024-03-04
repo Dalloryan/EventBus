@@ -6,7 +6,7 @@ EventBus
 [![Build Status](https://github.com/greenrobot/EventBus/actions/workflows/gradle.yml/badge.svg)](https://github.com/greenrobot/EventBus/actions)
 [![Follow greenrobot on Twitter](https://img.shields.io/twitter/follow/greenrobot_de.svg?style=flat-square&logo=twitter)](https://twitter.com/greenrobot_de)
 
-EventBus...
+EventBus..
 
  * simplifies the communication between components.
     * decouples event senders and receivers
